@@ -1,4 +1,3 @@
-# GridsChallenge.github.io-master
 [![](https://raw.githubusercontent.com/stephen-eneji/GridsChallenge.github.io/master/design/desktop-design.jpg)](https://stephen-eneji.github.io/GridsChallenge.github.io/)
 
 # Grids Challenge (FEDP 02)
