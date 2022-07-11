@@ -6,10 +6,8 @@ FEDP - Front-End Design Practise
 
 > Coded By [Stephen Eneji](https://github.com/stephen-eneji)
 <br/>
-> Designed By [FrontEndMentor][frontendmentor]
 
-**GridsChallenge** is a simple beautifully designed responsive webpage that's a part of [FrontEndMentor][frontendmentor]'s list of practise projects for Front-End Developers.
-It contains a for card feauture that are displayed with CSS grids and responsively change their position and size as the view-width changes.
+<a href="https://stephen-eneji.github.io/GridsChallenge.github.io-master/" target="_blank">❤❤ VISIT Live Site ❤❤</a>
 
 <br />
 
@@ -24,8 +22,6 @@ It contains a for card feauture that are displayed with CSS grids and responsive
 
 
 This was made *entirely* from scratch as a solution to the practise challenges provided by [FrontEndMentor][frontendmentor]. I'd like to give special thanks to [FrontEndMentor][frontendmentor] for their amazing contents and materials. They make Front-End Development much more intresting and easier to learn.
-
-
 
 ---
 
@@ -43,7 +39,7 @@ Reach out to me on of the following places!
 # License
 
 
-- Copyright 2020 © <a href="https://github.com/stephen-eneji/" target="_blank">Stephen Eneji</a>.
+- Copyright 2022 <a href="https://github.com/stephen-eneji/" target="_blank">Stephen Eneji</a>.
 
 [facebook]: https://facebook.com/heisenejii
 [twitter]: https://twitter.com/heisenejii
